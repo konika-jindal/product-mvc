@@ -15,7 +15,7 @@ namespace web_application_product
 
     public class Startup
     {
-
+        //github
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
